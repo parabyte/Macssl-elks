@@ -1,0 +1,22 @@
+changes iv had to make.
+=====================
+
+Core renames and configuration
+- Replaced the original Mac-focused compatibility layer with ELKS-neutral headers
+  (`Project/mbedtls_compat.h`, `Project/elkssl_stdint.h`).
+- Rewrote `Project/config.h` for ELKS TLS 1.2 client support and direct libc hooks.
+- Added `entropy_elks.c` stubbed hardware entropy source.
+
+Build tooling
+- Added `build-elks-elkssl.sh` OpenWatcom build script producing `build-elks/lib/elkssl.lib`
+  and staged headers.
+- Normalised line endings to LF across sources for Watcom compatibility.
+
+Library adjustments
+- Extensive portability edits across Mbed TLS sources to remove Mac-specific
+  assumptions, enforce 16-bit size-safety, and fix OpenWatcom warnings in ASN.1,
+  Base64, CTR_DRBG, SSL, OID, PK parsing, and X.509 modules.
+- Routed platform allocation/printf calls directly to the ELKS C library.
+
+Documentation
+- Replaced README with ELKSSL-specific guidance and build instructions.

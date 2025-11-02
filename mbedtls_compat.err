@@ -1,0 +1,3 @@
+Project/mbedtls_compat.c(52): Warning! W131: No prototype found for function 'vprintf'
+Project/mbedtls_compat.c(52): Warning! W308: The function 'vprintf' without prototyped parameters called
+Project/mbedtls_compat.c(52): Note! I2002: 'vprintf' defined in: Project/mbedtls_compat.c(52)
