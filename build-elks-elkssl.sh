@@ -81,6 +81,7 @@ SOURCES=(
 	ssl_cli.c
 	ssl_msg.c
 	ssl_tls.c
+	MacSSL.c
 	version.c
 	x509.c
 	x509_crt.c
