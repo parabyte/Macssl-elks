@@ -1,10 +1,4 @@
 /*
- *  RFC 1321 compliant MD5 implementation
- *
- *  Copyright The Mbed TLS Contributors
- *  SPDX-License-Identifier: Apache-2.0 OR GPL-2.0-or-later
- */
-/*
  *  The MD5 algorithm was designed by Ron Rivest in 1991.
  *
  *  http://www.ietf.org/rfc/rfc1321.txt

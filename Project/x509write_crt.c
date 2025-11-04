@@ -1,10 +1,4 @@
 /*
- *  X.509 certificate writing
- *
- *  Copyright The Mbed TLS Contributors
- *  SPDX-License-Identifier: Apache-2.0 OR GPL-2.0-or-later
- */
-/*
  * References:
  * - certificates: RFC 5280, updated by RFC 6818
  * - CSRs: PKCS#10 v1.7 aka RFC 2986

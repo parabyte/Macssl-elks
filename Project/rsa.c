@@ -1,11 +1,4 @@
 /*
- *  The RSA public-key cryptosystem
- *
- *  Copyright The Mbed TLS Contributors
- *  SPDX-License-Identifier: Apache-2.0 OR GPL-2.0-or-later
- */
-
-/*
  *  The following sources were referenced in the design of this implementation
  *  of the RSA algorithm:
  *

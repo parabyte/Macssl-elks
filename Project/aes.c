@@ -1,10 +1,4 @@
 /*
- *  FIPS-197 compliant AES implementation
- *
- *  Copyright The Mbed TLS Contributors
- *  SPDX-License-Identifier: Apache-2.0 OR GPL-2.0-or-later
- */
-/*
  *  The AES block cipher was designed by Vincent Rijmen and Joan Daemen.
  *
  *  https://csrc.nist.gov/csrc/media/projects/cryptographic-standards-and-guidelines/documents/aes-development/rijndael-ammended.pdf

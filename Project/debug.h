@@ -4,8 +4,6 @@
  * \brief Functions for controlling and providing debug output from the library.
  */
 /*
- *  Copyright The Mbed TLS Contributors
- *  SPDX-License-Identifier: Apache-2.0 OR GPL-2.0-or-later
  */
 #ifndef MBEDTLS_DEBUG_H
 #define MBEDTLS_DEBUG_H

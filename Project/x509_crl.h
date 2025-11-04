@@ -4,8 +4,6 @@
  * \brief X.509 certificate revocation list parsing
  */
 /*
- *  Copyright The Mbed TLS Contributors
- *  SPDX-License-Identifier: Apache-2.0 OR GPL-2.0-or-later
  */
 #ifndef MBEDTLS_X509_CRL_H
 #define MBEDTLS_X509_CRL_H

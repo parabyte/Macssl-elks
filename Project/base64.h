@@ -4,8 +4,6 @@
  * \brief RFC 1521 base64 encoding/decoding
  */
 /*
- *  Copyright The Mbed TLS Contributors
- *  SPDX-License-Identifier: Apache-2.0 OR GPL-2.0-or-later
  */
 #ifndef MBEDTLS_BASE64_H
 #define MBEDTLS_BASE64_H

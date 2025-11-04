@@ -4,8 +4,6 @@
  * \brief Privacy Enhanced Mail (PEM) decoding
  */
 /*
- *  Copyright The Mbed TLS Contributors
- *  SPDX-License-Identifier: Apache-2.0 OR GPL-2.0-or-later
  */
 #ifndef MBEDTLS_PEM_H
 #define MBEDTLS_PEM_H

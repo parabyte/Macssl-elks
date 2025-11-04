@@ -4,8 +4,6 @@
  * \brief Run-time version information
  */
 /*
- *  Copyright The Mbed TLS Contributors
- *  SPDX-License-Identifier: Apache-2.0 OR GPL-2.0-or-later
  */
 /*
  * This set of compile-time defines and run-time variables can be used to

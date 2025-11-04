@@ -1,12 +1,4 @@
 /*
- * Common and shared functions used by multiple modules in the Mbed TLS
- * library.
- *
- *  Copyright The Mbed TLS Contributors
- *  SPDX-License-Identifier: Apache-2.0 OR GPL-2.0-or-later
- */
-
-/*
  * Ensure gmtime_r is available even with -std=c99; must be defined before
  * config.h, which pulls in glibc's features.h. Harmless on other platforms.
  */

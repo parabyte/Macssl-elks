@@ -4,8 +4,6 @@
  * \brief X.509 generic defines and structures
  */
 /*
- *  Copyright The Mbed TLS Contributors
- *  SPDX-License-Identifier: Apache-2.0 OR GPL-2.0-or-later
  */
 #ifndef MBEDTLS_X509_H
 #define MBEDTLS_X509_H

@@ -1,10 +1,4 @@
 /*
- *  X.509 common functions for parsing and verification
- *
- *  Copyright The Mbed TLS Contributors
- *  SPDX-License-Identifier: Apache-2.0 OR GPL-2.0-or-later
- */
-/*
  *  The ITU-T X.509 standard defines a certificate format for PKI.
  *
  *  http://www.ietf.org/rfc/rfc5280.txt (Certificates and CRLs)

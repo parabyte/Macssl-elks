@@ -1,10 +1,3 @@
-/*
- *  SSLv3/TLSv1 client-side functions
- *
- *  Copyright The Mbed TLS Contributors
- *  SPDX-License-Identifier: Apache-2.0 OR GPL-2.0-or-later
- */
-
 #include "common.h"
 
 #if defined(MBEDTLS_SSL_CLI_C)

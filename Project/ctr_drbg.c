@@ -1,10 +1,4 @@
 /*
- *  CTR_DRBG implementation based on AES-256 (NIST SP 800-90)
- *
- *  Copyright The Mbed TLS Contributors
- *  SPDX-License-Identifier: Apache-2.0 OR GPL-2.0-or-later
- */
-/*
  *  The NIST SP 800-90 DRBGs are described in the following publication.
  *
  *  https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-90r.pdf

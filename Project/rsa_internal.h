@@ -35,9 +35,6 @@
  *
  */
 /*
- *  Copyright The Mbed TLS Contributors
- *  SPDX-License-Identifier: Apache-2.0 OR GPL-2.0-or-later
- *
  */
 
 #ifndef MBEDTLS_RSA_INTERNAL_H

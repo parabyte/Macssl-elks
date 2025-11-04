@@ -1,10 +1,3 @@
-/*
- *  RFC 1521 base64 encoding/decoding
- *
- *  Copyright The Mbed TLS Contributors
- *  SPDX-License-Identifier: Apache-2.0 OR GPL-2.0-or-later
- */
-
 #include "common.h"
 
 #if defined(MBEDTLS_BASE64_C)

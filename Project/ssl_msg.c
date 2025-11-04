@@ -1,11 +1,4 @@
 /*
- *  Generic SSL/TLS messaging layer functions
- *  (record layer + retransmission state machine)
- *
- *  Copyright The Mbed TLS Contributors
- *  SPDX-License-Identifier: Apache-2.0 OR GPL-2.0-or-later
- */
-/*
  *  The SSL 3.0 specification was drafted by Netscape in 1996,
  *  and became an IETF standard in 1999.
  *
